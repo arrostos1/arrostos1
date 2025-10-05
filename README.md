@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arrostos1" alt="arrostos1" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/arrostos1" target="blank"><img src="https://img.shields.io/twitter/follow/arrostos1?logo=twitter&style=for-the-badge" alt="arrostos1" /></a> </p>
+
 - 🔭 I’m currently working on [AzgarRP](https://discord.gg/9MgUEqVjdP)
 
 - 🌱 I’m currently learning **Language Lua**
