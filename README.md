@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arrostos</h1>
-<h3 align="center">A FiveM Developper</h3>
+<h3 align="center">A FiveM Developper/Mapper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrostos1&label=Profile%20views&color=0e75b6&style=flat" alt="arrostos1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arrostos1" alt="arrostos1" /></a> </p>
 
-- 🔭 I’m currently working on [AzgarRP](https://discord.gg/9MgUEqVjdP)
+- 🔭 I’m currently working on [K9PVP](https://discord.gg/k9pvp)
 
 - 🌱 I’m currently learning **Language Lua**
 
